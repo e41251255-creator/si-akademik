@@ -10,7 +10,11 @@
 </head>
 <body>
     <h1>Data Mahasiswa</h1>
+<<<<<<< HEAD
     <p>Selamat Datang di Sistem Informasi Akademik</p>
+=======
+   <p>Halaman Data Mahasiswa - Acara 12</p>
+>>>>>>> fitur-deskripsi
 
     <a href="create.php">Tambah Mahasiswa</a>
 
