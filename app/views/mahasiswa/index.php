@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Data Mahasiswa</h1>
-    <p>Sistem Informasi Akademik - Politeknik Negeri Jember</p>
+   <p>Halaman Data Mahasiswa - Acara 12</p>
 
     <a href="create.php">Tambah Mahasiswa</a>
 
